@@ -24,7 +24,6 @@
         <!-- App heading -->
         <h2 class="detector-title">Check Watermelon Ripeness</h2>
         <p class="detector-subtitle">
-          (crimson-sweet-f1) <br>
           Snap or upload a picture and let AI detect if it’s ripe or unripe.
         </p>
 
